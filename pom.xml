@@ -29,12 +29,6 @@
           <source>1.7</source>
           <target>1.7</target>
         </configuration>
- <properties>
-     <sonar.projectKey>nehaahumnekar</sonar.projectKey>
-     <sonar.organization>nehaa13</sonar.organization>
-     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-     <sonar.login>d52d6ab0cdbabe1d357576e4c0af1c182ece5c50</sonar.login>
-</properties>
       </plugin>
     </plugins>
   </build>
